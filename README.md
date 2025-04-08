@@ -1,3 +1,6 @@
-# Curs-Aprilie
-partea I a cursului -> $limbajul$ $C$
-partea II a cursului -> $limbajul$ $C++$
+# Curs by Daia
+________________________________________
+a) partea I a cursului -> $limbajul$ $C$
+________________________________________
+b) partea II a cursului -> $limbajul$ $C++$
+________________________________________
